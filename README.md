@@ -136,8 +136,7 @@ The Code Boot Camp Management System is a command-line interface (CLI) applicati
 
 #### Example output for listing all students:
 
-    sql
-    Copy code
+    
     ------------------------------------------------------------
     All Students 
     ------------------------------------------------------------
